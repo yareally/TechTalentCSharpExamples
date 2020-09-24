@@ -1,0 +1,13 @@
+D:\code\CSharpDataTypes\CSharpDataTypes\bin\Debug\netcoreapp3.1\CSharpDataTypes.exe
+D:\code\CSharpDataTypes\CSharpDataTypes\bin\Debug\netcoreapp3.1\CSharpDataTypes.deps.json
+D:\code\CSharpDataTypes\CSharpDataTypes\bin\Debug\netcoreapp3.1\CSharpDataTypes.runtimeconfig.json
+D:\code\CSharpDataTypes\CSharpDataTypes\bin\Debug\netcoreapp3.1\CSharpDataTypes.runtimeconfig.dev.json
+D:\code\CSharpDataTypes\CSharpDataTypes\bin\Debug\netcoreapp3.1\CSharpDataTypes.dll
+D:\code\CSharpDataTypes\CSharpDataTypes\bin\Debug\netcoreapp3.1\CSharpDataTypes.pdb
+D:\code\CSharpDataTypes\CSharpDataTypes\obj\Debug\netcoreapp3.1\CSharpDataTypes.csprojAssemblyReference.cache
+D:\code\CSharpDataTypes\CSharpDataTypes\obj\Debug\netcoreapp3.1\CSharpDataTypes.AssemblyInfoInputs.cache
+D:\code\CSharpDataTypes\CSharpDataTypes\obj\Debug\netcoreapp3.1\CSharpDataTypes.AssemblyInfo.cs
+D:\code\CSharpDataTypes\CSharpDataTypes\obj\Debug\netcoreapp3.1\CSharpDataTypes.csproj.CoreCompileInputs.cache
+D:\code\CSharpDataTypes\CSharpDataTypes\obj\Debug\netcoreapp3.1\CSharpDataTypes.dll
+D:\code\CSharpDataTypes\CSharpDataTypes\obj\Debug\netcoreapp3.1\CSharpDataTypes.pdb
+D:\code\CSharpDataTypes\CSharpDataTypes\obj\Debug\netcoreapp3.1\CSharpDataTypes.genruntimeconfig.cache
